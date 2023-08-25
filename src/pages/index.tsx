@@ -6,7 +6,6 @@ const inter = Inter({ subsets: ["latin"] });
 export default function Home() {
   return (
     <div>
-      {/* index page */}
       <section id="blog" className=" text-white h-screen bg-red-900 flex">
         <h1 className="m-auto mt-2 font-waterfall text-7xl text-white font-bold">
           Home Page
